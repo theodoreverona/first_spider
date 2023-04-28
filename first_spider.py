@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 28 11:26:32 2023
 
-@author: theod
+
 """
 
 import scrapy
